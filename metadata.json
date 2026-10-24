@@ -1,0 +1,8 @@
+{
+  "name": "Remix learner-V - Cognitive Language App Studio \u0026 Stitch Prompt Architect",
+  "description": "Scientific language learning methodology research hub, interactive Android study simulator (FSRS spaced repetition, comprehensible input, inductive grammar), habit profiler, and master prompt generator for Google Stitch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
